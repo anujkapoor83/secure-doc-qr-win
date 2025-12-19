@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+keys/*.pem
+*.secure_qr.png
+*.stamped.pdf

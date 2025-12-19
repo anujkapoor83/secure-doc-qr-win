@@ -1,0 +1,10 @@
+{
+  "keys": [
+    {
+      "kty": "OKP",
+      "crv": "Ed25519",
+      "kid": "2025-12-KEY-01",
+      "x": "s68n-0FeBz2g_CuMC3-FHuj2EZ_ZQWjUQdny1sMApQo"
+    }
+  ]
+}

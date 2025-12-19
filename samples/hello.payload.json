@@ -1,0 +1,10 @@
+{
+  "v": 1,
+  "doc_hash": "SHA256:e45776f3c145af7c7d86d8cb69cc0e7b68f3d07c3614f078cee2fb2602367870",
+  "doc_type": "pdf",
+  "issuer": "OPTUM-UHCT",
+  "kid": "2025-12-KEY-01",
+  "created": "2025-12-19T09:24:12Z",
+  "exp": "2028-12-18T09:24:12Z",
+  "sig": "LrxooahWpdbxVSmiF3thFn2MGF42tt9pZU3hcPW9rI9Ec8BHfP5wkbBBHKmsaC3pC0prchRL8UVi0wIUhuieDw"
+}
